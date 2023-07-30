@@ -452,6 +452,7 @@ FLOWS = {
         "surepetcare",
         "switchbee",
         "switchbot",
+        "switchbot_api",
         "switcher_kis",
         "syncthing",
         "syncthru",
